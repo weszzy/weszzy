@@ -15,8 +15,6 @@
 
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-
 </div>
 
 ## 🛠 &nbsp;Github Analytics
@@ -37,4 +35,6 @@
 <a target="_blank" href="https://instagram.com/weszzy/"> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-
+<a target="_blank" href="https://codepen.io/weszzy">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+</a>
