@@ -1,4 +1,4 @@
-<h1> Eae! Eu sou Daniel Wesley! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
+<h1> Eae! Eu sou Daniel Wesley! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" height="40px"> </h1>
 
 
 - 🔥 Atualmente estudando para ser Dev FullStack
