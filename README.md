@@ -1,7 +1,7 @@
 <h1> Eae! Eu sou Daniel Wesley! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px" height="40px"> </h1>
 
 
-- 🔥 Atualmente estudando para ser Dev FullStack
+- 🔥 Atualmente estudando para ser Analista QA
 
 <br>
 
@@ -9,11 +9,9 @@
 
 <div display: inline-block;>
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 </div>
 
@@ -22,8 +20,8 @@
 <p align="left">
    
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&show_icons=true" alt="weszzy's stats">
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=weszzy&layout=compact&theme=radical" alt="weszzy's most languages">
+   
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weszzy&layout=compact&theme=radical" alt="weszzy's most languages">
   
 </p>
 
