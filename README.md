@@ -33,3 +33,6 @@
 <a target="_blank" href="https://codepen.io/weszzy">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
+<a target="_blank" href="https://steamcommunity.com/id/weszzy/">
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
