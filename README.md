@@ -1,7 +1,7 @@
 <h1> Eae! Eu sou Daniel Wesley! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" height="40px"> </h1>
 
 
-- 🔥 Atualmente estudando para ser Analista QA
+- 🔥 Tester/QA
 
 <br>
 
