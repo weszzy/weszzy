@@ -42,6 +42,6 @@
 <a target="_blank" href="https://steamcommunity.com/id/weszzy/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-<a href="discord.gg/3k2Xgjtm" target="_blank">
+<a href="http://discordapp.com/users/410553521105010688" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
