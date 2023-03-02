@@ -1,4 +1,4 @@
-<h1> Eae! Eu sou Daniel Wesley! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px" height="40px"> </h1>
+<h1> Eae! Eu sou Dani! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
 
 
 - 🔥 Tester/QA
@@ -12,6 +12,12 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+
+<img alt="Jira" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+
+<img alt="Jira" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+
+
 
 </div>
 
@@ -35,4 +41,7 @@
 </a>
 <a target="_blank" href="https://steamcommunity.com/id/weszzy/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+</a>
+<a href="https://discordapp.com/users/Daniel%20Wesley#4823" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>
