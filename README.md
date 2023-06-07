@@ -1,7 +1,7 @@
-<h1> Eae! Eu sou Dani! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
+<h1> Eae! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
 
 
-- 🔥 Tester/QA
+- 🔥 Tester/QA Engineer
 
 <br>
 
@@ -11,7 +11,6 @@
 
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 
 <img alt="Jira" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
