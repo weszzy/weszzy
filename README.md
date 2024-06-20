@@ -9,7 +9,6 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
-<img alt="Jira" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
 <img alt="Jira" src="https://camo.githubusercontent.com/ac32321178557e35bcdfb318bc842b3130aec1e3a23a4c228f290a7f6c98bd43/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d6a756e697435" height="28px">
 
