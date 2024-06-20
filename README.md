@@ -10,7 +10,7 @@
 
 
 
-<img alt="Jira" src="https://camo.githubusercontent.com/ac32321178557e35bcdfb318bc842b3130aec1e3a23a4c228f290a7f6c98bd43/68747470733a2f2f613131796261646765732e636f6d2f62616467653f6c6f676f3d6a756e697435" height="28px">
+<img alt="Jira" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
 
