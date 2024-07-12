@@ -20,9 +20,9 @@
 
 <p class="analytics">
    
-   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&show_icons=true" alt="weszzy's stats"> 
+   <img width="300em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&show_icons=true" alt="weszzy's stats"> 
 
-   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weszzy&layout=compact&theme=radical" alt="weszzy's most languages">
+   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weszzy&layout=compact&theme=radical" alt="weszzy's most languages">
   
 </p>
 
