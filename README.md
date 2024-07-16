@@ -23,7 +23,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical" />
 </a>
 <a href="https://github.com/weszzy/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&langs_count=1&theme=radical&card_width=150" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=donut-vertical&langs_count=1&theme=radical&card_width=200" />
 </a>
 </div>
   
