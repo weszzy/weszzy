@@ -18,11 +18,15 @@
 
 ## 🛠 &nbsp;Github Analytics
 
-<p class="analytics">
-   
-   <img width="401em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&show_icons=true" alt="weszzy's stats"> 
-
-   <img width="361em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weszzy&layout=compact&theme=radical" alt="weszzy's most languages">
+   <div>
+  <a href="https://github.com/weszzy">
+  <center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=weszzy&show_icons=true&theme=radical&include_all_commits=true&card_width=200px&count_private=false" alt="centered image">
+  </center>
+  <center>  
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weszzy&layout=compact&langs_count=1&card_width=150px&theme=radical"  alt="weszzy's most languages"/> 
+  </center>
+</div>
   
 </p>
 
