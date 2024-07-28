@@ -1,24 +1,16 @@
 <h1> Hi, there! I'm Dan <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
 
 - Oracle Next Education student
-- QA / automated test student
+- QA / Automated test student
 - Fullstack student w/ JS
 
-<br>
 
-## 🛠 &nbsp;Languages & Tools
-
-<div display: inline-block;>
-
-<img alt="Java" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-
-
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
-
-
-</div>
+## 💻 Languages & Tools 
+<div style="display: inline">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
+</div><br/>
 
 ## 🛠 &nbsp;Github Analytics
 
@@ -33,17 +25,8 @@
   
 </p>
 
-## &nbsp;Social Links
-                                                                                                   
-<a target="_blank" href="https://instagram.com/weszzy/"> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-<a target="_blank" href="https://codepen.io/weszzy">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-</a>
-<a target="_blank" href="https://steamcommunity.com/id/weszzy/">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-<a href="http://discordapp.com/users/410553521105010688" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+## Reach me 📩
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weszzy/) 
+[![Gmail](https://img.shields.io/badge/-danielwcontato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danielwcontato@gmail.com)](mailto:danielwcontato@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/410553521105010688)
