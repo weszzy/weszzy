@@ -1,8 +1,12 @@
-<h1> Eae! <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
+<h1> Hi, there! I'm Dan <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
+
+- Oracle Next Education student
+- QA / automated test student
+- Fullstack student w/ JS
 
 <br>
 
-## 🛠 &nbsp;Frameworks utilizadas em testes/estudo:
+## 🛠 &nbsp;Languages & Tools
 
 <div display: inline-block;>
 
