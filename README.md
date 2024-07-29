@@ -4,26 +4,23 @@
 - QA / Automated test student
 - Fullstack student w/ JS
 
-
 ## 💻 Languages & Tools 
 <div style="display: inline">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  
+<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
 </div><br/>
 
 ## 🛠 &nbsp;Github Analytics
 
    <div>
-<a href="https://github.com/weszzy/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical" />
-</a>
-<a href="https://github.com/weszzy/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=donut-vertical&langs_count=1&theme=radical&card_width=200" />
-</a>
+  <a href="https://github.com/Gabrielle-Ribeiro">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&theme=radical"/> 
+  </center>
 </div>
-  
-</p>
 
 ## Reach me 📩
 
