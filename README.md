@@ -16,7 +16,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&theme=radical"/> 
+    <img height="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&theme=radical"/> 
   </center>
 </div>
 
