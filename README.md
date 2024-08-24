@@ -11,7 +11,7 @@
 ## 🛠 &nbsp;Github Analytics
 
    <div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
+  <a href="https://github.com/weszzy">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="centered image">
   </center>
