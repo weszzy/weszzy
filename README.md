@@ -1,14 +1,12 @@
+<div align="center">
 <h1> Hi, there! I'm Dan <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
 
-- Oracle Next Education student
-- QA / Automated test student
-- Fullstack student w/ JS
+- Oracle Next Education | QA & Automated test student
+
 
 ## 💻 Languages & Tools 
-<div style="display: inline">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
-</div><br/>
+
+[![My Skills](https://skillicons.dev/icons?i=js,vscode,obsidian,git&theme=dark)](https://skillicons.dev)
 
 ## 🛠 &nbsp;Github Analytics
 
@@ -24,6 +22,8 @@
 
 ## Reach me 📩
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weszzy/) 
-[![Gmail](https://img.shields.io/badge/-danielwcontato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danielwcontato@gmail.com)](mailto:danielwcontato@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/410553521105010688)
+
+[![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:danielwcontato@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weszzy/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/lnvalido)
+[![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/410553521105010688)
