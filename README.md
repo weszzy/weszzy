@@ -26,3 +26,4 @@
 [![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:danielwcontato@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weszzy/)
 [![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/410553521105010688)
+[<img src="https://static-00.iconduck.com/assets.00/duolingo-icon-512x506-7cvlmjd4.png" height="49em">](https://pt.duolingo.com/profile/weszzy)
