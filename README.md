@@ -1,14 +1,14 @@
 <div align="center">
-<h1> Hi, there! I'm Dan <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="40px" height="40px"> </h1>
+<h1> Hi, there! I'm Dan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40px"> </h1>
 
-- Oracle Next Education | QA & Automated test student
+- Software Engineer | QA & Automated test student
 
 
-## 💻 Languages & Tools 
+### Languages & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,obsidian,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,dart,vscode&theme=dark)](https://skillicons.dev)
 
-## 🛠 &nbsp;Github Analytics
+### &nbsp;Github Analytics
 
    <div>
   <a href="https://github.com/weszzy">
@@ -20,10 +20,9 @@
   </center>
 </div>
 
-## Reach me 📩
+### Reach me
 
 
 [![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:danielwcontato@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weszzy/)
 [![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/410553521105010688)
-[<img src="https://static-00.iconduck.com/assets.00/duolingo-icon-512x506-7cvlmjd4.png" height="49em">](https://pt.duolingo.com/profile/weszzy)
