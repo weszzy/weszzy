@@ -13,8 +13,9 @@
    <div>
   <a href="https://github.com/weszzy">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="centered image">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="">
   </center>
+     
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&theme=radical"/> 
   </center>
