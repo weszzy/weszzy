@@ -11,14 +11,10 @@
 ### &nbsp;Github Analytics
 
    <div>
-  <a href="https://github.com/weszzy">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weszzy&theme=radical&count_private=true" alt="">
-  </center>
-     
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=weszzy&layout=compact&theme=radical"/> 
-  </center>
+   
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weszzy&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weszzy&theme=2077)
+
 </div>
 
 ### Reach me
