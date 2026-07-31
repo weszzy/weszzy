@@ -6,7 +6,9 @@
 
 ### Languages & Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=js,dart,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,flutter,dart&theme=dark)](https://skillicons.dev)
+
+[![My Tools](https://skillicons.dev/icons?i=vscode,docker,git&theme=dark)](https://skillicons.dev)
 
 ### &nbsp;Github Analytics
 
