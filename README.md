@@ -1,27 +1,7 @@
-<div align="center">
-<h1> Hi, there! I'm Dan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40px"> </h1>
+# Daniel Wesley
 
-- Software Engineer | QA & Automated test student
+Software Engineer · QA & Automated Testing
 
+JavaScript · TypeScript · Flutter · Dart
 
-### Languages & Tools 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,flutter,dart&theme=dark)](https://skillicons.dev)
-
-[![My Tools](https://skillicons.dev/icons?i=vscode,docker,git&theme=dark)](https://skillicons.dev)
-
-### &nbsp;Github Analytics
-
-   <div>
-   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weszzy&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weszzy&theme=2077)
-
-</div>
-
-### Reach me
-
-
-[![G-mail](https://skillicons.dev/icons?i=gmail)](mailto:danielwcontato@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/weszzy/)
-[![Discord](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/410553521105010688)
+[Email](mailto:danielwcontato@gmail.com) · [Instagram](https://www.instagram.com/weszzy/) · [Discord](https://discordapp.com/users/410553521105010688)
