@@ -1,4 +1,4 @@
-# Daniel Wesley
+# Daniel Dutra
 
 Software Engineer · QA & Automated Testing
 
